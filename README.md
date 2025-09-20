@@ -2,7 +2,8 @@
 
 A simple and elegant image gallery application built with React, Vite, and Tailwind CSS. It utilizes the Pexels API to allow users to search for high-quality photos, view them in a responsive grid, and download them with a single click.
 
-
+## live demo
+https://imagesearchfake.netlify.app/
 
 ## ✨ Features
 
